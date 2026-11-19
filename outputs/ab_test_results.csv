@@ -1,0 +1,3 @@
+metric,gate_30_%,gate_40_%,diff_pp,ci_low_pp,ci_high_pp,z,p_value,significant
+retention_1,44.8198,44.2283,0.5915,-0.0572,1.2403,1.7871,0.0739,False
+retention_7,19.0183,18.2,0.8183,0.3103,1.3263,3.1574,0.0016,True
